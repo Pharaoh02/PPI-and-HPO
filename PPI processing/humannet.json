@@ -1,0 +1,5 @@
+{
+  "entrez-uniprot": "D:/HPODNets-main/config/preprocessing/entrez2uniprot.txt",
+  "network": "D:/HPODNets-main/config/preprocessing/HumanNet-XN_v2.tsv",
+  "output": "D:/HPODNets-main/config/preprocessing/HumanNet-XN_v2.json"
+}

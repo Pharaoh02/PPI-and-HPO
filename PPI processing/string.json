@@ -1,0 +1,5 @@
+{
+  "network": "D:/HPODNets-main/config/preprocessing/9606.protein.links.v12.0.txt",
+  "mapping": "D:/HPODNets-main/config/preprocessing/human.uniprot_2_string.2018.tsv",
+  "feature": "D:/HPODNets-main/config/preprocessing/STRING.v12.0.json"
+}
