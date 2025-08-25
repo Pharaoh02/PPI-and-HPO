@@ -1,0 +1,10 @@
+{
+  "old_genes": "C:/Users/pharaoh/Desktop/HPODNets-main/config/preprocessing/gene_list.txt",
+  "old_mapping": "C:/Users/pharaoh/Desktop/HPODNets-main/config/preprocessing/gene2uniprot.txt",
+  "raw_annotation": "C:/Users/pharaoh/Desktop/HPODNets-main/config/preprocessing/hpo_annotation.json",
+  "ontology": {
+    "path": "C:/Users/pharaoh/Desktop/HPODNets-main/config/preprocessing/hp.obo",
+    "version": "201904"
+  },
+  "dataset": "C:/Users/pharaoh/Desktop/HPODNets-main/config/preprocessing/dataset_cv.pkl"
+}

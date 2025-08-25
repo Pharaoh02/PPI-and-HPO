@@ -1,0 +1,13 @@
+{
+  "old_ontology": {
+    "path": "D:/HPODNets-main/config/preprocessing/hp.obo",
+    "version": "201902"
+  },
+  "old_annotation": "D:/HPODNets-main/config/preprocessing/hpo_annotation.json",
+  "new_ontology": {
+    "path": "D:/HPODNets-main/config/preprocessing/hp.obo",
+    "version": "201904"
+  },
+  "new_annotation": "D:/HPODNets-main/config/preprocessing/hpo_annotation.json",
+  "dataset": "D:/HPODNets-main/config/preprocessing/dataset_temporal.pkl"
+}

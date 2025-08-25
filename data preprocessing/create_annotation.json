@@ -1,0 +1,5 @@
+{
+  "mapping": "C:/Users/pharaoh/Desktop/HPODNets-main/config/preprocessing/gene2uniprot.txt",
+  "raw_annotation": "C:/Users/pharaoh/Desktop/HPODNets-main/config/preprocessing/p_to_genes.txt",
+  "processed_annotation": "C:/Users/pharaoh/Desktop/HPODNets-main/config/preprocessing/hpo_annotation.json"
+}
