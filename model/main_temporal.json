@@ -1,0 +1,10 @@
+{
+  "mode": "temporal",
+  "dataset": "D:/HPODNets-main/config/preprocessing/HPO/dataset_temporal.pkl",
+  "network": [
+    "D:/HPODNets-main/config/preprocessing/STRING.v12.0.json",
+    "D:/HPODNets-main/config/preprocessing/GeneMANIA.json",
+    "D:/HPODNets-main/config/preprocessing/HumanNet-FN.json"
+  ],
+  "result": "D:/HPODNets-main/config/preprocessing/HPODNets_temporal.json"
+}
